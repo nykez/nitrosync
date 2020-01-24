@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/e5ppzzs.png "Logo Title Text 1")
+![alt text](https://i.imgur.com/KS3duic.png "Logo Title Text 1")
 
 ## This git serves as a Wiki for the NitroSync script located at gmodstore.com
 
